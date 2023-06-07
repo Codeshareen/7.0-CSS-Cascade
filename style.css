@@ -1,0 +1,28 @@
+/* Don't change the existing CSS. */
+body{
+  background-color: black;
+}
+#outer-box{
+  background-color: chartreuse;
+}
+.box {
+  padding:10px;
+  background-color: black;
+  padding: 10px;
+  border:10px;
+  border-color: lawngreen;
+  border: width 5px;;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.white-text{
+  background-color: chartreuse;
+color: black;}
+h3{
+  color: aliceblue;
+  padding-left: 10px;
+}
